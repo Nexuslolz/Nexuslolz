@@ -23,7 +23,7 @@
 
 ## 	&#128568; About Me
 
- - Something about me
+ - My name is Alexandr and I'm 25 y.o.
 
 ## 	&#128572; Stack
 
@@ -34,3 +34,7 @@
 [![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexuslolz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Main stats](https://github-readme-stats.vercel.app/api?username=Nexuslolz&theme=gruvbox&show_icons=true&count_private=true)
+
+## &#9889; Codewars
+
+![Codewars stats](https://www.codewars.com/users/Nexuslolqq/badges/large)
