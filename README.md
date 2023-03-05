@@ -23,11 +23,13 @@
 
 ## 	&#128568; About Me
 
- - My name is Alexandr and I'm 25 y.o.
+ - My name is Alexandr.
+ - I'm 25 y.o.
+ - I'm React developer.
 
 ## 	&#128572; Stack
 
-[![Skills](https://skillicons.dev/icons?i=vscode,git,figma,html,css,scss,js,ts,webpack,react,redux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,git,figma,bash,html,css,scss,js,ts,webpack,react,redux)](https://skillicons.dev)
 
 ## 	&#128571; Github Stats
 
