@@ -27,7 +27,7 @@
 
 ## 	&#128572; Stack
 
-[![Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,webpack,react,redux,vscode,git,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,git,figma,html,css,scss,js,ts,webpack,react,redux)](https://skillicons.dev)
 
 ## 	&#128571; Github Stats
 
