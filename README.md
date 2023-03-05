@@ -33,4 +33,4 @@
 
 [![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexuslolz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![Main stats](https://github-readme-stats.vercel.app/api?username=Nexuslolz&theme=gruvbox&show_icons=true)
+![Main stats](https://github-readme-stats.vercel.app/api?username=Nexuslolz&theme=gruvbox&show_icons=true&count_private=true)
