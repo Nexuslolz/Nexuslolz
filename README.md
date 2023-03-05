@@ -1,19 +1,35 @@
-<span>
-  <h1 align='center'>Welcome
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='30'/>
-  </h1>
-</span>
-<div align='center'>
-    <img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='350' />
+<div>
+  <div>
+    <h1 align='center'>Welcome
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='30'/>
+    </h1>
+  </div>
+  <div align='center'>
+      <img src='https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif' width='200' />
+  </div>
+  <div id="badges" align='center'>
+    <a href='https://vk.com/nexuslolz'>
+      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    </a>
+    <a href='https://t.me/nexuslolz'>
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <div align='center'>
+    <img src='https://komarev.com/ghpvc/?username=nexuslolz&style=flat-square&color=blue' alt="counter"/>
+  </div>
 </div>
-<div id="badges" align='center'>
-  <a href='https://vk.com/nexuslolz'>
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href='https://t.me/nexuslolz'>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-<div align='center'>
-  <img src='https://komarev.com/ghpvc/?username=nexuslolz&style=flat-square&color=blue' alt="counter"/>
-</div>
+
+## 	&#128568; About Me
+
+ - Something about me
+
+## 	&#128572; Stack
+
+[![Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,webpack,react,redux,vscode,git,figma)](https://skillicons.dev)
+
+## 	&#128571; Github Stats
+
+[![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexuslolz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+![Main stats](https://github-readme-stats.vercel.app/api?username=Nexuslolz&theme=gruvbox&show_icons=true)
