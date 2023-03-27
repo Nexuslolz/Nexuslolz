@@ -35,32 +35,32 @@
 ## &#128293; Проекты
 <span>
   <a href='https://github.com/Nexuslolz/i-eat'  target='_blank'>
-    <img alt='i-eat' src='https://user-images.githubusercontent.com/85787420/227693166-6c0e6ab6-6acf-4d9f-886a-0d94177030dd.gif' height='225px'>
+    <img alt='i-eat' src='https://user-images.githubusercontent.com/85787420/227693166-6c0e6ab6-6acf-4d9f-886a-0d94177030dd.gif' height='225px' width='355px'>
   </a>
 </span>
 <span>
   <a href='https://github.com/Nexuslolz/online-store'  target='_blank'>
-    <img alt='bender-store' src='https://user-images.githubusercontent.com/85787420/227693127-6c7030cb-a5cb-41bc-8923-f14abe3ae31f.gif' height='225px'>
+    <img alt='bender-store' src='https://user-images.githubusercontent.com/85787420/228063161-3c306910-7c57-4911-9071-5ef004b304e5.gif' height='225px' width='355px'>
   </a>
 </span>
 <span>
   <a href='https://github.com/Nexuslolz/momentum'  target='_blank'>
-    <img alt='momentum' src='https://user-images.githubusercontent.com/85787420/227693184-a83b907d-7eca-440d-a393-356589c8d85d.gif' height='225px'>
+    <img alt='momentum' src='https://user-images.githubusercontent.com/85787420/227693184-a83b907d-7eca-440d-a393-356589c8d85d.gif' height='225px' width='355px'>
   </a>
 </span>
 <span>
   <a href='https://github.com/Nexuslolz/snakeGame'  target='_blank'>
-    <img alt='snake-game' src='https://user-images.githubusercontent.com/85787420/227693102-397a01fe-5ad3-4f09-804b-28032be6d851.gif' height='225px'>
+    <img alt='snake-game' src='https://user-images.githubusercontent.com/85787420/227693102-397a01fe-5ad3-4f09-804b-28032be6d851.gif' height='225px' width='355px'>
   </a>
 </span>
 <span>
   <a href='https://github.com/Nexuslolz/SongBird'  target='_blank'>
-    <img alt='song-bird' src='https://user-images.githubusercontent.com/85787420/227693110-b08ba316-a123-45bc-b42f-8bcfad08d829.gif' height='225px'>
+    <img alt='song-bird' src='https://user-images.githubusercontent.com/85787420/227693110-b08ba316-a123-45bc-b42f-8bcfad08d829.gif' height='225px' width='355px'>
   </a>
 </span>
 <span>
   <a href='https://github.com/Nexuslolz/CatEnergy'  target='_blank'>
-    <img alt='cat-energy' src='https://user-images.githubusercontent.com/85787420/227693156-b16e2694-b1a5-4b9d-91c4-d6eb57a3dd79.gif' height='225px'>
+    <img alt='cat-energy' src='https://user-images.githubusercontent.com/85787420/227693156-b16e2694-b1a5-4b9d-91c4-d6eb57a3dd79.gif' height='225px' width='355px'>
   </a>
 </span>
 
