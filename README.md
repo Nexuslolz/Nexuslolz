@@ -40,7 +40,7 @@
 </span>
 <span>
   <a href='https://github.com/Nexuslolz/online-store'  target='_blank'>
-    <img alt='bender-store' src='https://user-images.githubusercontent.com/85787420/228063161-3c306910-7c57-4911-9071-5ef004b304e5.gif' height='225px' width='355px'>
+    <img alt='bender-store' src='https://user-images.githubusercontent.com/85787420/229368077-65057123-047b-4b68-b040-a4cb18c3d98e.gif' height='225px' width='355px'>
   </a>
 </span>
 <span>
