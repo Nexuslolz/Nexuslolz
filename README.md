@@ -10,25 +10,23 @@
   </div>
   <div id="badges">
 
-## 	&#128568; Обо мне
+## &#128568; Обо мне
 
 Разрабатываю многофункциональные приложения на React.js с использованием Typescript.
 
 Ответственно подхожу к оптимизации кода, соблюдению сроков реализации проектов.
 
-Опыт разработки: 3 года.
-
-## 	&#128572; Навыки
+## &#128572; Навыки
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,react,redux,webpack,vite,html,css,scss,jest,vscode,git,figma,bash)](https://skillicons.dev)
 
-## 	&#128571; Статистика Github
+## &#128571; Статистика Github
 
 ![Main stats](https://github-readme-stats.vercel.app/api?username=Nexuslolz&theme=gruvbox&show_icons=true&count_private=true)
 [![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexuslolz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## &#128293; Проекты
+
 <span>
   <a href='https://github.com/Nexuslolz/i-eat'  target='_blank'>
     <img alt='i-eat' src='https://user-images.githubusercontent.com/85787420/227693166-6c0e6ab6-6acf-4d9f-886a-0d94177030dd.gif' height='225px' width='355px'>
@@ -63,7 +61,6 @@
 ## &#9889; Codewars
 
 ![Codewars stats](https://www.codewars.com/users/Nexuslolqq/badges/large)
-
 
   <div align='center'>
       <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDEwMWIzNDI3MDhiZDg2OWQ4ODNhMTkxODhmYmVlMWZjOWI4ZTE4YiZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif' width='200' />
